@@ -1,5 +1,8 @@
-[package]
+ [package]
 name = "elara-log"
+description = "Project Elara's lightweight logging library for general-purpose use"
+license = "Unlicense"
+repository = "https://github.com/elaraproject/elara-log"
 version = "0.1.1"
 edition = "2021"
 
