@@ -1,4 +1,9 @@
 /*!
+
+> **Note:** This crate is **deprecated**. Users should
+> switch to the [new version of this crate](https://crates.io/crates/elara-log-ng)
+> instead.
+
 This crate provides basic logging capabilities for the
 [Project Elara](https://github.com/elaraproject/) suite of
 open-source software libraries. It can also be used as
